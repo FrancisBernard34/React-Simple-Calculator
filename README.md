@@ -1,5 +1,7 @@
 # React Simple Calculator
 
+![Overview](https://i.ibb.co/931TyBJS/image.png)
+
 ## Overview
 
 In today's digital world, having reliable calculation tools that are accessible and user-friendly is essential. While there are many calculator applications available, finding one that combines simplicity with advanced features can be challenging.
