@@ -60,7 +60,7 @@ npm start
   - `sqrt`: Calculate square roots
 - Keyboard shortcuts:
   - Number keys: 0-9
-  - Operators: +, -, *, /
+  - Operators: +, -, \*, /
   - Enter or =: Calculate result
   - Escape: Clear all
   - p: Pi constant
@@ -77,18 +77,10 @@ This calculator represents a successful implementation of a React application th
 - Robust error handling to prevent unexpected behavior
 
 Through this project, I demonstrated:
+
 - Strong React component architecture
 - TypeScript implementation for type safety
 - Attention to accessibility needs
 - Clean, maintainable code organization
 
-## Future Enhancements
-
-- History of calculations
-- Scientific calculator mode
-- Customizable themes
-- Localization support
-
----
-
-*This project was created as a demonstration of React and TypeScript capabilities in building accessible, user-friendly web applications.*
+_This project was created as a demonstration of React and TypeScript capabilities in building accessible, user-friendly web applications._
