@@ -44,7 +44,7 @@ export const specialOperations: SpecialOperations = {
     const result = a / 100;
     return Number.isFinite(result) ? result : 'Error';
   },
-  pi: (a: number) => Math.PI, // Keep parameter to match interface, even if not used
+  pi: () => Math.PI,
   sqrt: (a: number) => {
     if (a < 0) return 'Error';
     if (!Number.isFinite(a)) return 'Error';
