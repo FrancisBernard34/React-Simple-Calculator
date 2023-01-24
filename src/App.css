@@ -1,0 +1,15 @@
+* {
+  height: 100%;
+  border: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(20, 20, 20);
+}
+
+.App p {
+  color: white;
+  text-align: center;
+}
