@@ -1,0 +1,50 @@
+.Container {
+    background-color: #ec0964;
+    border: 5px solid #ec0964;
+    width: 25rem;
+    height: 38rem;
+    margin-top: 15px;
+    border-radius: 10px;
+}
+
+.Display {
+    display: flex;
+    align-items: end;
+    justify-content: end;
+    overflow: hidden;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    line-height: 100%;
+    border-radius: 5px;
+    font-size: 30px;
+    background-color: rgb(59, 0, 45);
+    color: white;
+    height: 7rem;
+}
+
+h1 {
+    margin: auto 20px;
+}
+
+.Buttons {
+    margin-top: 1.5rem;
+    background-color: rgb(36, 2, 46);
+    height: 29rem;
+    border-radius: 5px;
+}
+
+button {
+    width: 80px;
+    height: 80px;
+    margin: 6px 10px;
+    border-radius: 15px;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    border: none;
+    background-color: #ec0964;
+}
+
+button:hover {
+    cursor: pointer;
+    background-color: #ff257c;
+}
